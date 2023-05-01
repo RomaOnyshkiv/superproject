@@ -10,7 +10,7 @@
 
     <properties>
         <selenium.version>3.141.59</selenium.version>
-        <testNg.version>7.0.0</testNg.version>
+        <testNg.version>7.7.0</testNg.version>
         <lombokk.version>1.18.10</lombokk.version>
         <appium.version>7.3.0</appium.version>
         <webdrivermanager.version>3.7.1</webdrivermanager.version>
